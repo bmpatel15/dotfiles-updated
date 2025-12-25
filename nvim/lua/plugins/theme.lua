@@ -1,0 +1,1 @@
+/home/bmpatel15/.config/omarchy/current/theme/neovim.lua
